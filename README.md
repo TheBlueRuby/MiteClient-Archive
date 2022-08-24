@@ -5,4 +5,5 @@ Go to either:
 - https://raw.githubusercontent.com/TheBlueRuby/MiteClient-Archive/main/<VERSION_NUMBER>/MiteClient.jar 
 or 
 - https://raw.githubusercontent.com/TheBlueRuby/MiteClient-Archive/main/<VERSION_NUMBER>/MiteClient.json 
+
 to find the respective files
